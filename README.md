@@ -9,11 +9,7 @@ It is a responsive Survey form. I use basic HTML and CSS to build this form. Eve
 
 #### Screenshort of the design: 
 
-##### 01:
 ![image](https://user-images.githubusercontent.com/75157104/181362302-efcbb051-bd39-43fb-87b3-af3bc39bcf67.png)
-
-
-##### 02:
 ![image](https://user-images.githubusercontent.com/75157104/181362409-c262a6c7-0868-47ac-b506-195f0fcd4648.png)
 
 
